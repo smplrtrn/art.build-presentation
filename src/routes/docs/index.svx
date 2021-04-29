@@ -1,0 +1,73 @@
+---
+title: Art Build
+---
+
+<script>
+import Reader from "/static/images/reader.png?width=400;800;1200&format=png;webp&srcset";
+</script>
+
+
+# Try to build this
+
+"Linke obere Ecke?" 
+
+Was können wir lernen, wenn wir einmal über die Hybris, welche unser Selbstbild bestimmt, tatsächlich nachdenken?
+
+Nach einigen Jahren in der 'Produktion' kam mir in den Sinn ein Pflichtprogramm einzuführen, um Künstler die allzugerne unsere Kraft und Zeit in Anspruch nehmen möchten, um ihre Arbeit zum Vorschein zu bringen ein wenig in den Bezug zu bringen, in dem sie dies zu tun beabsichtigen. 
+
+Die Idee war simpel: Bevor wir irgend etwas beginnen, drei Stunden *Andrei Rubljev* von Andrei Tarkovski ansehen, und anschließend reden wir einmal darüber, was die Kunst - und das ist ja unausweichlich auch das Herstellen und zum Hervorbringen von Kunst - in der Gesellschaft stets ausmacht - ganz gleich zu welcher Zeit. Der Gedanke dahinter war ebenso simpel: An diejenigen, welche aus diesem Film keinerlei Begriff davon mitnehmen, wo sie und ihre Absicht Kunst hervorzubringen sich jetzt und zu jeder Zeit befinden, an die müssen wir nicht Zeit und Mittel und Kraft verschwenden.
+
+Nun, dies ist - das ist ja offensichtlich - nur ein Aspekt. Was ist denn mit dem eigenen Blick auf die eigene Verortung, dem eigenen Bezug? Was tun?
+
+Versuchen wir realistisch zu sein. Das Unmögliche hat sich in einer solch vielfachen Weise verändert - dass wir es uns einmal tatsächlich ansehen müssen. Schließlich ist die Wirklichkeit stets unmittelbar - und unerbittlich.
+
+## Sysyphos
+
+Zum Einen: Sysyphos' Arbeitsumfeld hat sich entscheidend verändert. Ja, entscheidend - auch wenn wir dies an vielen Stellen nicht als wahr annehmen, es ist Umwälzendes (sic!) passiert.   
+Es ist passiert - auch wenn wir uns, mit unserem Nimbus der Wohlständigen, mit dem Wohlgefühl beim morgendlichen Vogelgezwitscher auf unserem Balkon, in unserem Garten, vor unserem Fenster zudecken. Aber es ist doch eben auch in diesem Gezwitscher, das wir nicht verstehen, durch das aber so Vieles ausgestauscht wird, immer etwas worüber wir vielleicht mehr wissen sollten.
+
+Versuchen wir also auch die Dinge zu *verstehen*, die uns verändern. Dann können wir - sofern der Wunsch danach besteht - auch wieder über (unsere) Kunst definieren, was unser Wert in der Gesellschaft ist.
+
+Dieser Satz ist ein Artefakt, das ich mitgenommen habe aus einem Beitrag von *Shanghai TV* aus den achtziger Jahren, produziert anlässlich der Unterzeichnung der Städtepartnerschaftserklärung durch Klaus von Dohnanyi und Jiang Zemin. Zu einer Einstellug mit drei Straßenmusikern auf dem Rathausmarkt, fällt er im Kommentar: *Auch diese drei Künstler versuchen hier sich ihren Wert in der Gesellschaft zu beweisen.*
+
+In diesem einfachen Satz haben die Bedeutungen gleich mehrfach eine Stimme: 
+
+<img srcset={Reader} alt="Try to build this" />
+
+    Sablage, Reader, *2019*
+
+## Systemische und pandemische Kaputtheit
+
+## GPLv2
+
+
+
+<style>
+  h1 {
+    text-align: left
+  }
+  
+  ol,
+  ul {
+    list-style: none;
+    padding-left: calc(var(--size-300) / 2)
+  }
+
+  ol li::before,
+  ul li::before {
+    content: "\2013";
+    color: #ee3b11;
+    margin: 0 var(--size-300) 0 calc(var(--size-600) * -1);
+
+  }
+
+  ol li,
+  ul li {
+    max-width: min(45rem, 100%);
+    padding-left: var(--size-600);
+    font-size: calc(var(--size-600) / 2);
+  }
+  img {
+     filter: sepia(0.8);
+  }
+</style>
